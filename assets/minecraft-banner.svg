@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" role="img" aria-label="Andrej Rodic Minecraft scene">
+  <rect width="1200" height="260" fill="#79c9ec"/>
+  <rect y="170" width="1200" height="18" fill="#61ad3a"/>
+  <rect y="188" width="1200" height="72" fill="#71472d"/>
+  <g fill="#8c5a39" opacity=".72">
+    <path d="M0 207h42v19H0zm82 25h48v18H82zm107-27h54v24h-54zm155 29h36v19h-36zm89-31h63v27h-63zm157 26h49v20h-49zm130-27h56v28h-56zm154 30h40v19h-40zm103-27h65v26h-65z"/>
+  </g>
+  <g fill="#f7fbff">
+    <rect x="55" y="48" width="90" height="18" rx="5"/><rect x="88" y="38" width="52" height="18" rx="5"/>
+    <rect x="402" y="72" width="112" height="18" rx="5"/><rect x="440" y="61" width="58" height="18" rx="5"/>
+    <rect x="828" y="42" width="102" height="18" rx="5"/><rect x="862" y="31" width="48" height="18" rx="5"/>
+  </g>
+  <g opacity=".58">
+    <animateTransform attributeName="transform" type="translate" values="0 0;-22 0;0 0" dur="7s" repeatCount="indefinite"/>
+    <rect x="165" y="96" width="88" height="14" rx="4" fill="#f7fbff"/><rect x="195" y="87" width="42" height="14" rx="4" fill="#f7fbff"/>
+    <rect x="970" y="95" width="102" height="15" rx="4" fill="#f7fbff"/><rect x="1006" y="85" width="46" height="15" rx="4" fill="#f7fbff"/>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="-80 0;1120 0" dur="12s" repeatCount="indefinite"/>
+    <g transform="translate(0 102)">
+      <rect x="0" y="0" width="28" height="31" fill="#c88e61"/>
+      <rect x="6" y="8" width="5" height="5" fill="#1f2b36"/><rect x="18" y="8" width="5" height="5" fill="#1f2b36"/>
+      <rect x="0" y="31" width="28" height="39" fill="#245b9d"/>
+      <rect x="-9" y="35" width="9" height="31" fill="#c88e61"/><rect x="28" y="35" width="9" height="31" fill="#c88e61"/>
+      <g transform="translate(5 70)">
+        <animateTransform attributeName="transform" type="rotate" values="-12 0 0;12 0 0;-12 0 0" dur=".55s" repeatCount="indefinite"/>
+        <rect x="0" y="0" width="8" height="29" fill="#202f50"/><rect x="-2" y="25" width="12" height="7" fill="#18223a"/>
+      </g>
+      <g transform="translate(16 70)">
+        <animateTransform attributeName="transform" type="rotate" values="12 0 0;-12 0 0;12 0 0" dur=".55s" repeatCount="indefinite"/>
+        <rect x="0" y="0" width="8" height="29" fill="#202f50"/><rect x="-2" y="25" width="12" height="7" fill="#18223a"/>
+      </g>
+    </g>
+  </g>
+  <rect y="169" width="1200" height="4" fill="#bce781"/>
+  <text x="38" y="29" fill="#17486b" font-family="monospace" font-size="17" font-weight="700">ANDREJRODIC • BUILDING IN PUBLIC</text>
+</svg>
