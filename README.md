@@ -5,7 +5,6 @@
 [![UCSB CS](https://img.shields.io/badge/UCSB_CS-003660?style=flat-square)](https://cs.ucsb.edu/education)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrejrodic/)
 [![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/AndrejRodic)
-[![YouTube](https://img.shields.io/badge/YouTube-1a1a1a?style=flat-square&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@Spikzzz)
 [![Email](https://img.shields.io/badge/Email-1a1a1a?style=flat-square&logo=gmail&logoColor=white)](mailto:andrejrodic9@gmail.com)
 
 </div>
