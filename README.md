@@ -10,7 +10,7 @@
 
 ---
 
-### ⛏️ `spawn point`
+### ⛏️ `whoami`
 
 Hey, I am **Andrej** - an incoming **Computer Science** student at **UC Santa Barbara**. I learn best by building: turning small everyday problems into practical projects with code, electronics, and design.
 
@@ -18,7 +18,7 @@ When I am not working on a project, I am usually exploring Minecraft, experiment
 
 ---
 
-### 🧰 `toolkit`
+### 🧱 `inventory`
 
 ![Java](https://img.shields.io/badge/Java-1A1A1A?style=flat-square&logo=openjdk&logoColor=ED8B00)
 ![Microcontrollers](https://img.shields.io/badge/Microcontrollers-1A1A1A?style=flat-square&logo=arduino&logoColor=00A8E8)
@@ -32,7 +32,7 @@ When I am not working on a project, I am usually exploring Minecraft, experiment
 
 ---
 
-### 🔥 `currently building`
+### 🔥 `active quests`
 
 - Building my computer science foundation at **UCSB**
 - Making software and electronics projects that solve small, real problems
@@ -40,7 +40,7 @@ When I am not working on a project, I am usually exploring Minecraft, experiment
 
 ---
 
-### 🗺️ `build journal`
+### 🗺️ `project log`
 
 | Build | Notes |
 | :-- | :-- |
@@ -51,7 +51,7 @@ When I am not working on a project, I am usually exploring Minecraft, experiment
 
 ---
 
-### 🤝 `community quests`
+### 💎 `achievements`
 
 | Focus | Milestone |
 | :-- | :-- |
@@ -63,7 +63,7 @@ When I am not working on a project, I am usually exploring Minecraft, experiment
 
 ---
 
-### ✨ `world stats`
+### 🌿 `lore`
 
 - **240+** 3D-printed items sold
 - **$5.6k** in eBay sales with **217** positive reviews
