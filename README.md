@@ -1,21 +1,22 @@
-<p align="center">
-  <img src="./assets/minecraft-banner.svg" alt="Andrej Rodic Minecraft banner" width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://cs.ucsb.edu/education">UC Santa Barbara</a> ·
-  <a href="https://www.linkedin.com/in/andrej-rodic-90022632a/">LinkedIn</a> ·
-  <a href="https://time.is/Los_Angeles">Pacific Time</a> ·
-  <a href="https://www.youtube.com/@Spikzzz">YouTube</a>
-</p>
+<img src="./assets/minecraft-banner.svg" alt="Animated Minecraft-style banner for Andrej Rodic" width="100%" />
+
+[![UCSB CS](https://img.shields.io/badge/UCSB_CS-003660?style=flat-square)](https://cs.ucsb.edu/education)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrejrodic/)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/AndrejRodic)
+[![YouTube](https://img.shields.io/badge/YouTube-1a1a1a?style=flat-square&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@Spikzzz)
+[![Email](https://img.shields.io/badge/Email-1a1a1a?style=flat-square&logo=gmail&logoColor=white)](mailto:andrejrodic9@gmail.com)
+
+</div>
 
 ---
 
 ### ⛏️ `whoami`
 
-Hey, I am **Andrej** - an incoming **Computer Science** student at **UC Santa Barbara**. I learn best by building: turning small everyday problems into practical projects with code, electronics, and design.
+Hey, I am **Andrej** - a **freshman studying Computer Science** at **UC Santa Barbara**. I learn best by building: turning small everyday problems into practical projects with code, electronics, and design.
 
-When I am not working on a project, I am usually exploring Minecraft, experimenting with 3D-print ideas, or learning how to communicate an idea more clearly through video and design.
+When I am not working on a project, I am usually experimenting with 3D-print ideas or learning how to communicate an idea more clearly through video and design.
 
 ---
 
@@ -72,8 +73,10 @@ When I am not working on a project, I am usually exploring Minecraft, experiment
 
 ---
 
-<p align="center">
-  <img src="./dist/github-contribution-grid-snake-dark.svg" alt="Snake animation of Andrej contribution graph" />
-</p>
+<div align="center">
 
-<p align="center"><i>last updated by GitHub Actions</i></p>
+<img src="./dist/github-contribution-grid-snake-dark.svg" alt="Snake animation of Andrej's contribution graph" />
+
+*last updated by GitHub Actions*
+
+</div>
