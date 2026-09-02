@@ -24,6 +24,7 @@ when i'm not in class or working on a build, i'm usually prototyping a 3D-print 
 ![Java](https://img.shields.io/badge/Java-1A1A1A?style=flat-square&logo=openjdk&logoColor=ED8B00)
 ![Microcontrollers](https://img.shields.io/badge/Microcontrollers-1A1A1A?style=flat-square&logo=arduino&logoColor=00A8E8)
 ![3D%20Printing](https://img.shields.io/badge/3D%20Printing-1A1A1A?style=flat-square&logo=prusa&logoColor=FF6B35)
+![Roblox%20Development](https://img.shields.io/badge/Roblox%20Development-1A1A1A?style=flat-square&logo=roblox&logoColor=white)
 ![Video%20Editing](https://img.shields.io/badge/Video%20Editing-1A1A1A?style=flat-square&logo=youtube&logoColor=FF0000)
 
 - **Foundations:** Java, object-oriented programming, and algorithms
@@ -47,6 +48,7 @@ when i'm not in class or working on a build, i'm usually prototyping a 3D-print 
 | :-- | :-- |
 | 🚗 **Garage Parking Sensor** | Built a microcontroller + distance-sensor + LED setup to help park at the right distance. |
 | ⚡ **DIY Sprint Speed Gates** | Put together a lower-cost laser-sensor timing setup for sprint training. |
+| 🎮 **Roblox Template Studio** | Led a small team building trend-responsive game templates: mechanics, testing, debugging, and team coordination. The team's templates supported experiences that reached **258.6K peak CCU** and **1.5B+ visits**. |
 | 🧩 **3D Print Studio** | Designed, printed, and sold 240+ functional items — then kept improving them from customer feedback. |
 | 🛒 **Online Marketplace Operations** | Ran an eBay storefront: customers, returns, pricing, and performance tracking. |
 
@@ -60,7 +62,7 @@ when i'm not in class or working on a build, i'm usually prototyping a 3D-print 
 | **Tutoring initiative** | Put together an after-school event, designed recruitment posters, and helped form study groups. |
 | **National Honor Society** | Helped organize a clothing drive for the Trinity Center and other service work. |
 | **Community** | Volunteered with Animal Rescue of Tracy. |
-| **Creative work** | Built a YouTube art/customization channel and picked up video-editing and thumbnail-design skills. |
+| **Roblox animation channel** | Co-created animated Roblox skits: designed scenes and models, developed storylines, and iterated on videos that reached **7M+ views** and **9K subscribers**. |
 
 ---
 
