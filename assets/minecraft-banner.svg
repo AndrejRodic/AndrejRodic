@@ -28,14 +28,8 @@
       <rect x="5" y="34" width="24" height="4" fill="#65b6c1"/>
       <rect x="-9" y="38" width="9" height="32" fill="#b9805d"/><rect x="34" y="38" width="9" height="32" fill="#b9805d"/>
       <rect x="-9" y="38" width="9" height="7" fill="#3f8793"/><rect x="34" y="38" width="9" height="7" fill="#3f8793"/>
-      <g transform="translate(4 73)">
-        <animateTransform attributeName="transform" type="rotate" values="-10 0 0;10 0 0;-10 0 0" dur=".55s" repeatCount="indefinite"/>
-        <rect x="0" y="0" width="11" height="39" fill="#40528a"/><rect x="-2" y="35" width="15" height="7" fill="#222a45"/>
-      </g>
-      <g transform="translate(20 73)">
-        <animateTransform attributeName="transform" type="rotate" values="10 0 0;-10 0 0;10 0 0" dur=".55s" repeatCount="indefinite"/>
-        <rect x="0" y="0" width="11" height="39" fill="#40528a"/><rect x="-2" y="35" width="15" height="7" fill="#222a45"/>
-      </g>
+      <rect x="4" y="73" width="11" height="39" fill="#40528a"/><rect x="2" y="108" width="15" height="7" fill="#222a45"/>
+      <rect x="20" y="73" width="11" height="39" fill="#40528a"/><rect x="18" y="108" width="15" height="7" fill="#222a45"/>
     </g>
   </g>
   <rect y="169" width="1200" height="4" fill="#bce781"/>
