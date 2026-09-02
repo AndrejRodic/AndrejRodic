@@ -13,9 +13,9 @@
 
 ### ⛏️ `whoami`
 
-Hey, I am **Andrej** - a **freshman studying Computer Science** at **UC Santa Barbara**. I learn best by building: turning small everyday problems into practical projects with code, electronics, and design.
+Hey, I am **Andrej** - an incoming **Computer Science** student at **UC Santa Barbara**. I learn best by building: turning small everyday problems into practical projects with code, electronics, and design.
 
-When I am not working on a project, I am usually experimenting with 3D-print ideas or learning how to communicate an idea more clearly through video and design.
+When I am not working on a project, I am usually exploring Minecraft, experimenting with 3D-print ideas, or learning how to communicate an idea more clearly through video and design.
 
 ---
 
@@ -59,7 +59,7 @@ When I am not working on a project, I am usually experimenting with 3D-print ide
 | **Peer mentoring** | Three years helping students with math and other subjects, study strategies, and test preparation. |
 | **Tutoring initiative** | Organized an after-school event, designed recruitment posters, and formed study groups around students' needs. |
 | **National Honor Society** | Helped organize a clothing drive for the Trinity Center and other service efforts. |
-| **Community** | Volunteered with Animal Rescue of Tracy and helped host an Asian-discrimination awareness week. |
+| **Community** | Volunteered with Animal Rescue of Tracy. |
 | **Creative work** | Built a YouTube art/customization channel and developed video-editing and thumbnail-design skills. |
 
 ---
