@@ -5,7 +5,8 @@
 <p align="center">
   <a href="https://cs.ucsb.edu/education">UC Santa Barbara</a> ·
   <a href="https://www.linkedin.com/in/andrej-rodic-90022632a/">LinkedIn</a> ·
-  <a href="https://time.is/Los_Angeles">Pacific Time</a>
+  <a href="https://time.is/Los_Angeles">Pacific Time</a> ·
+  <a href="https://www.youtube.com/@Spikzzz">YouTube</a>
 </p>
 
 ---
