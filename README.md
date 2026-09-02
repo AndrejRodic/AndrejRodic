@@ -13,9 +13,9 @@
 
 ### ⛏️ `whoami`
 
-Hey, I am **Andrej** - an incoming **Computer Science** student at **UC Santa Barbara**. I learn best by building: turning small everyday problems into practical projects with code, electronics, and design.
+Hey, I am **Andrej** - a **freshman studying Computer Science** at **UC Santa Barbara**. I learn best by building: turning small everyday problems into practical projects with code, electronics, and design.
 
-When I am not working on a project, I am usually exploring Minecraft, experimenting with 3D-print ideas, or learning how to communicate an idea more clearly through video and design.
+When I am not working on a project, I am usually experimenting with 3D-print ideas or learning how to communicate an idea more clearly through video and design.
 
 ---
 
