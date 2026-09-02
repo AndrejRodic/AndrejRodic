@@ -13,9 +13,9 @@
 
 ### ⛏️ `whoami`
 
-Hey, I am **Andrej** - a **freshman studying Computer Science** at **UC Santa Barbara**. I learn best by building: turning small everyday problems into practical projects with code, electronics, and design.
+hey, i'm **Andrej** — a **freshman studying Computer Science** at **UC Santa Barbara**. i like building useful stuff, especially projects where code, electronics, and design have to work together.
 
-When I am not working on a project, I am usually experimenting with 3D-print ideas or learning how to communicate an idea more clearly through video and design.
+when i'm not in class or working on a build, i'm usually prototyping a 3D-print idea or figuring out how to make a video or design idea clearer.
 
 ---
 
@@ -35,9 +35,9 @@ When I am not working on a project, I am usually experimenting with 3D-print ide
 
 ### 🔥 `active quests`
 
-- Building my computer science foundation at **UCSB**
-- Making software and electronics projects that solve small, real problems
-- Learning to document my work clearly and share the process behind it
+- **CS @ UCSB** · getting stronger at Java, OOP, and algorithms
+- turning everyday annoyances into small hardware + software projects
+- documenting builds better as i go
 
 ---
 
@@ -45,10 +45,10 @@ When I am not working on a project, I am usually experimenting with 3D-print ide
 
 | Build | Notes |
 | :-- | :-- |
-| 🚗 **Garage Parking Sensor** | Built a microcontroller, distance-sensor, and LED setup to signal the right parking distance. |
-| ⚡ **DIY Sprint Speed Gates** | Created a lower-cost laser-sensor timing setup for sprint training. |
-| 🧩 **3D Print Studio** | Designed, printed, and sold 240+ functional items; improved designs from customer feedback. |
-| 🛒 **Online Marketplace Operations** | Ran an eBay storefront, handling customers, returns, pricing, and performance tracking. |
+| 🚗 **Garage Parking Sensor** | Built a microcontroller + distance-sensor + LED setup to help park at the right distance. |
+| ⚡ **DIY Sprint Speed Gates** | Put together a lower-cost laser-sensor timing setup for sprint training. |
+| 🧩 **3D Print Studio** | Designed, printed, and sold 240+ functional items — then kept improving them from customer feedback. |
+| 🛒 **Online Marketplace Operations** | Ran an eBay storefront: customers, returns, pricing, and performance tracking. |
 
 ---
 
@@ -56,19 +56,19 @@ When I am not working on a project, I am usually experimenting with 3D-print ide
 
 | Focus | Milestone |
 | :-- | :-- |
-| **Peer mentoring** | Three years helping students with math and other subjects, study strategies, and test preparation. |
-| **Tutoring initiative** | Organized an after-school event, designed recruitment posters, and formed study groups around students' needs. |
-| **National Honor Society** | Helped organize a clothing drive for the Trinity Center and other service efforts. |
+| **Peer mentoring** | Spent three years helping students with math, study strategies, and test prep. |
+| **Tutoring initiative** | Put together an after-school event, designed recruitment posters, and helped form study groups. |
+| **National Honor Society** | Helped organize a clothing drive for the Trinity Center and other service work. |
 | **Community** | Volunteered with Animal Rescue of Tracy. |
-| **Creative work** | Built a YouTube art/customization channel and developed video-editing and thumbnail-design skills. |
+| **Creative work** | Built a YouTube art/customization channel and picked up video-editing and thumbnail-design skills. |
 
 ---
 
 ### 🌿 `lore`
 
-- **240+** 3D-printed items sold
-- **$5.6k** in eBay sales with **217** positive reviews
-- Varsity soccer, National Honor Society, community service, and mentoring
+- built, printed, and sold **240+** functional items
+- ran **$5.6k** in eBay sales with **217** positive reviews
+- varsity soccer, National Honor Society, community service, and mentoring
 
 ---
 
