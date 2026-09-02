@@ -48,7 +48,7 @@ when i'm not in class or working on a build, i'm usually prototyping a 3D-print 
 | :-- | :-- |
 | 🚗 **Garage Parking Sensor** | Built a microcontroller + distance-sensor + LED setup to help park at the right distance. |
 | ⚡ **DIY Sprint Speed Gates** | Put together a lower-cost laser-sensor timing setup for sprint training. |
-| 🎮 **Roblox Template Studio** | Led a small team building trend-responsive game templates that helped creators launch faster: mechanics, testing, debugging, and team coordination. The team's templates supported experiences that reached **258.6K peak CCU** and **1.5B+ visits**. |
+| 🎮 **Roblox Game Template Studio** | Led a small team building trend-responsive game templates that helped creators launch faster: mechanics, testing, debugging, and team coordination. The team's templates supported experiences that reached **258.6K peak CCU** and **1.5B+ visits**. |
 | 🎨 **Roblox Asset Pack Studio** | Co-built commercial asset packs for trend-driven Roblox releases, contributing 3D models, animations, sound effects, icons/renders, and release packaging. Sold **100+ paid packs** across the catalog, with releases priced up to **$150**. |
 | 🧩 **3D Print Studio** | Designed, printed, and sold 240+ functional items — then kept improving them from customer feedback. |
 
