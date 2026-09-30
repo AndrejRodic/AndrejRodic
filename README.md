@@ -22,13 +22,14 @@ when i'm not in class or working on a build, i'm usually playing soccer, filming
 ### 🧱 `inventory`
 
 ![Java](https://img.shields.io/badge/Java-1A1A1A?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![Python](https://img.shields.io/badge/Python-1A1A1A?style=flat-square&logo=python&logoColor=3776AB)
 ![Luau](https://img.shields.io/badge/Luau-1A1A1A?style=flat-square&logo=lua&logoColor=2C8EBB)
 ![Microcontrollers](https://img.shields.io/badge/Microcontrollers-1A1A1A?style=flat-square&logo=arduino&logoColor=00A8E8)
 ![3D%20Printing](https://img.shields.io/badge/3D%20Printing-1A1A1A?style=flat-square&logo=prusa&logoColor=FF6B35)
 ![Roblox%20Development](https://img.shields.io/badge/Roblox%20Development-1A1A1A?style=flat-square&logo=roblox&logoColor=white)
 ![Video%20Editing](https://img.shields.io/badge/Video%20Editing-1A1A1A?style=flat-square&logo=youtube&logoColor=FF0000)
 
-- **Foundations:** Java, Luau scripting, object-oriented programming, and algorithms
+- **Foundations:** Java, Python, Luau scripting, object-oriented programming, and algorithms
 - **Hardware:** microcontrollers, sensors, LEDs, and laser timing
 - **Design:** 3D modeling, 3D printing, and iterative prototyping
 - **Creative work:** video editing, thumbnail design, and storytelling
