@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 12" role="img" aria-label="Pixel grass and dirt divider" shape-rendering="crispEdges">
-  <rect width="1200" height="12" fill="#7b4e2f"/>
-  <rect width="1200" height="5" fill="#5d8f35"/>
-  <rect width="1200" height="2" fill="#8dcc4b"/>
-  <path d="M30 7h18v5H30zm72 0h12v5h-12zm118 0h24v5h-24zm104 0h16v5h-16zm137 0h19v5h-19zm95 0h12v5h-12zm158 0h21v5h-21zm111 0h13v5h-13zm132 0h20v5h-20zm133 0h14v5h-14z" fill="#684027"/>
-</svg>
