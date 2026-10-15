@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/minecraft-banner.svg" alt="Animated Minecraft-style banner for Andrej Rodic" width="100%" />
+<img src="./assets/minecraft-banner.svg" alt="Minecraft-style Overworld banner for Andrej Rodic" width="100%" />
 
 [![UCSB CS](https://img.shields.io/badge/UCSB_CS-003660?style=flat-square)](https://cs.ucsb.edu/education)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrejrodic/)
@@ -10,68 +10,57 @@
 
 ---
 
-### ⛏️ `whoami`
+### `⛏️ whoami`
 
-hey, i'm **Andrej**, a **student studying Computer Science** at **UC Santa Barbara**. i like building useful stuff, especially projects where code, electronics, and design work together.
-
-when i'm not in class or working on a build, i'm usually playing soccer, filming youtube videos, or playing games like minecraft.
+hey, i'm **Andrej**, a Computer Science student at **UC Santa Barbara**. i like building useful software and practical projects that bring code, electronics, and design together.
 
 ---
 
-### 🧱 `inventory`
+### `🧱 inventory`
 
-![Java](https://img.shields.io/badge/Java-1A1A1A?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![Python](https://img.shields.io/badge/Python-1A1A1A?style=flat-square&logo=python&logoColor=3776AB)
-![Luau](https://img.shields.io/badge/Luau-1A1A1A?style=flat-square&logo=lua&logoColor=2C8EBB)
-![Microcontrollers](https://img.shields.io/badge/Microcontrollers-1A1A1A?style=flat-square&logo=arduino&logoColor=00A8E8)
-![3D%20Printing](https://img.shields.io/badge/3D%20Printing-1A1A1A?style=flat-square&logo=prusa&logoColor=FF6B35)
-![Roblox%20Development](https://img.shields.io/badge/Roblox%20Development-1A1A1A?style=flat-square&logo=roblox&logoColor=white)
-![Video%20Editing](https://img.shields.io/badge/Video%20Editing-1A1A1A?style=flat-square&logo=youtube&logoColor=FF0000)
-
-- **Foundations:** Java, Python, Luau scripting, object-oriented programming, and algorithms
-- **Hardware:** microcontrollers, sensors, LEDs, and laser timing
-- **Design:** 3D modeling, 3D printing, and iterative prototyping
-- **Creative work:** video editing, thumbnail design, and storytelling
+![Java](https://img.shields.io/badge/Java-1a1a1a?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=3776AB)
+![Luau](https://img.shields.io/badge/Luau-1a1a1a?style=flat-square&logo=lua&logoColor=2C8EBB)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-1a1a1a?style=flat-square&logo=cloudflare&logoColor=F38020)
+![Microcontrollers](https://img.shields.io/badge/Microcontrollers-1a1a1a?style=flat-square&logo=arduino&logoColor=00A8E8)
 
 ---
 
-### 🔥 `active quests`
+### `🔥 active quests`
 
-- **CS @ UCSB** · getting stronger at Java, OOP, and algorithms
-- turning everyday annoyances into small hardware + software projects
-- documenting builds better as i go
+- **CS @ UCSB** · expected 2029
+- building and shipping useful software
+- looking for a **Summer 2027 software internship**
 
 ---
 
-### 🗺️ `project log`
+### `🗺️ project log`
 
 | Build | Notes |
 | :-- | :-- |
-| 🚗 **Garage Parking Sensor** | Built a microcontroller + distance-sensor + LED setup to help park at the right distance. |
-| ⚡ **DIY Sprint Speed Gates** | Put together a lower-cost laser-sensor timing setup for sprint training. |
-| 🎮 **Roblox Game Template Studio** | Led a small team building trend-responsive game templates that helped creators launch faster: implemented and debugged Luau game mechanics, tested features, and coordinated the team. The team's templates supported experiences that reached **258.6K peak CCU** and **1.5B+ visits**. |
-| 🎨 **Roblox Asset Pack Studio** | Co-built commercial asset packs for trend-driven Roblox releases, contributing 3D models, animations, sound effects, icons/renders, and release packaging. Sold **100+ paid packs** across the catalog, with releases priced from **$100 to $150**. |
-| 🧩 **3D Print Studio** | Designed, printed, and sold 240+ functional items, then kept improving them from customer feedback. |
+| **Queue Monitor** | Published Chrome extension for Discord queues, used by **300+ people**. [Chrome Web Store](https://chromewebstore.google.com/detail/mctiers-queue-sniper-watc/aibcfnkajkoandabcpbebgaijomadkjn) · [case study](https://github.com/AndrejRodic/queue-monitor-showcase) |
+| **Roblox templates** | Helped lead a three-person team building reusable Luau game systems. Games using our templates reached **258.6K peak CCU** and **1.5B+ visits**. [case study](https://github.com/AndrejRodic/roblox-development) |
+| **Roblox asset packs** | Co-built packs with **100+ paid team sales**. Games using the packs reported **330K+ combined concurrent players**. [case study](https://github.com/AndrejRodic/roblox-development) |
+| **Sprint Timing Gates** | Built a laser-sensor prototype that records sprint times. |
+| **Garage Parking Aid** | Built a distance-sensing prototype with LED feedback to help drivers park. |
 
 ---
 
-### 💎 `achievements`
+### `💎 achievements`
 
 | Focus | Milestone |
 | :-- | :-- |
-| **Peer mentoring** | Spent three years helping students with math, study strategies, and test prep. |
-| **Tutoring initiative** | Put together an after-school event, designed recruitment posters, and helped form study groups. |
-| **National Honor Society** | Helped organize a clothing drive for the Trinity Center and other service work. |
-| **Community** | Volunteered with Animal Rescue of Tracy. |
-| **Roblox animation channel** | Co-created animated Roblox skits: designed scenes and models, developed storylines, and iterated on videos that reached **7M+ views** and **9K subscribers**. |
+| **3D printing** | Designed and sold **240+ functional items**. |
+| **Online resale** | Sold digital in-game items on eBay, earning **$5.6K in sales** and **217 positive reviews**. |
+| **Roblox animation** | Co-created a channel with **7M+ views** and **9K subscribers**. |
+| **Peer mentoring** | Spent three years helping students with math and study strategies. |
 
 ---
 
-### 🌿 `lore`
+### `🌿 lore`
 
-- built, printed, and sold **240+** functional items
-- ran **$5.6k** in eBay sales with **217** positive reviews
-- varsity soccer, National Honor Society, community service, and mentoring
+- usually playing soccer, editing videos, or playing Minecraft
 
 ---
 
@@ -86,4 +75,3 @@ when i'm not in class or working on a build, i'm usually playing soccer, filming
 *last updated by GitHub Actions*
 
 </div>
-
