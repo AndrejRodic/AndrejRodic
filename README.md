@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/minecraft-story-banner.gif" alt="Animated Minecraft-style banner for Andrej Rodic" width="100%" />
+<img src="./assets/minecraft-banner.svg" alt="Animated Minecraft-style banner for Andrej Rodic" width="100%" />
 
 [![UCSB CS](https://img.shields.io/badge/UCSB_CS-003660?style=flat-square)](https://cs.ucsb.edu/education)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrejrodic/)
@@ -10,69 +10,70 @@
 
 ---
 
-## ⛏️ about me
+### ⛏️ `whoami`
 
-hey, i'm **Andrej**, a **Computer Science student at UC Santa Barbara**. i like building useful stuff, especially projects where code, electronics, and design work together.
+hey, i'm **Andrej**, a **student studying Computer Science** at **UC Santa Barbara**. i like building useful stuff, especially projects where code, electronics, and design work together.
 
 when i'm not in class or working on a build, i'm usually playing soccer, filming youtube videos, or playing games like minecraft.
 
-<img src="./assets/grass-divider.svg" alt="Pixel grass and dirt divider" width="100%" />
-
-## selected projects
-
-### Queue Monitor
-
-i built and published a Chrome extension that watches Discord for new Minecraft skill-test queues and helps players join quickly. it now has **300+ users**.
-
-**links:** [Chrome Web Store](https://chromewebstore.google.com/detail/mctiers-queue-sniper-watc/aibcfnkajkoandabcpbebgaijomadkjn) · [case study](https://github.com/AndrejRodic/queue-monitor-showcase)  
-**stack:** JavaScript · Chrome APIs · Manifest V3 · Cloudflare Workers
-
 ---
 
-### Roblox Development
-
-i helped lead a three-person coding team building reusable Roblox game systems in Luau. Games using the team's templates reached **258.6K peak concurrent players** and **1.5B+ visits**. Separately, our asset packs had **100+ paid team sales**, and games using them reported **330K+ combined concurrent players**.
-
-**links:** [case study](https://github.com/AndrejRodic/roblox-development)  
-**stack:** Luau · Roblox Studio
-
----
-
-### Sprint Timing Gates
-
-i built a laser-sensor prototype that records sprint times.
-
-**stack:** microcontroller · laser sensors
-
----
-
-### Garage Parking Aid
-
-i built a distance-sensing prototype with LED feedback to help a driver stop at the right spot.
-
-**stack:** microcontroller · distance sensor · LED
-
----
-
-## 🎒 inventory
+### 🧱 `inventory`
 
 ![Java](https://img.shields.io/badge/Java-1A1A1A?style=flat-square&logo=openjdk&logoColor=ED8B00)
 ![Python](https://img.shields.io/badge/Python-1A1A1A?style=flat-square&logo=python&logoColor=3776AB)
 ![Luau](https://img.shields.io/badge/Luau-1A1A1A?style=flat-square&logo=lua&logoColor=2C8EBB)
-![JavaScript](https://img.shields.io/badge/JavaScript-1A1A1A?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Microcontrollers](https://img.shields.io/badge/Microcontrollers-1A1A1A?style=flat-square&logo=arduino&logoColor=00A8E8)
+![3D%20Printing](https://img.shields.io/badge/3D%20Printing-1A1A1A?style=flat-square&logo=prusa&logoColor=FF6B35)
+![Roblox%20Development](https://img.shields.io/badge/Roblox%20Development-1A1A1A?style=flat-square&logo=roblox&logoColor=white)
+![Video%20Editing](https://img.shields.io/badge/Video%20Editing-1A1A1A?style=flat-square&logo=youtube&logoColor=FF0000)
 
-**current goal:** looking for a software internship for Summer 2027.
+- **Foundations:** Java, Python, Luau scripting, object-oriented programming, and algorithms
+- **Hardware:** microcontrollers, sensors, LEDs, and laser timing
+- **Design:** 3D modeling, 3D printing, and iterative prototyping
+- **Creative work:** video editing, thumbnail design, and storytelling
 
-<details>
-<summary>more about me</summary>
+---
 
-- i designed, printed, and sold **240+ functional items** through a small 3D-printing shop.
-- i ran an eBay resale business with **$5.6K in sales** and **217 positive reviews**.
-- i co-created a Roblox animation channel with **7M+ views** and **9K subscribers**.
-- i spent three years peer mentoring students and helped with tutoring and community service.
+### 🔥 `active quests`
 
-</details>
+- **CS @ UCSB** · getting stronger at Java, OOP, and algorithms
+- turning everyday annoyances into small hardware + software projects
+- documenting builds better as i go
+
+---
+
+### 🗺️ `project log`
+
+| Build | Notes |
+| :-- | :-- |
+| 🚗 **Garage Parking Sensor** | Built a microcontroller + distance-sensor + LED setup to help park at the right distance. |
+| ⚡ **DIY Sprint Speed Gates** | Put together a lower-cost laser-sensor timing setup for sprint training. |
+| 🎮 **Roblox Game Template Studio** | Led a small team building trend-responsive game templates that helped creators launch faster: implemented and debugged Luau game mechanics, tested features, and coordinated the team. The team's templates supported experiences that reached **258.6K peak CCU** and **1.5B+ visits**. |
+| 🎨 **Roblox Asset Pack Studio** | Co-built commercial asset packs for trend-driven Roblox releases, contributing 3D models, animations, sound effects, icons/renders, and release packaging. Sold **100+ paid packs** across the catalog, with releases priced from **$100 to $150**. |
+| 🧩 **3D Print Studio** | Designed, printed, and sold 240+ functional items, then kept improving them from customer feedback. |
+
+---
+
+### 💎 `achievements`
+
+| Focus | Milestone |
+| :-- | :-- |
+| **Peer mentoring** | Spent three years helping students with math, study strategies, and test prep. |
+| **Tutoring initiative** | Put together an after-school event, designed recruitment posters, and helped form study groups. |
+| **National Honor Society** | Helped organize a clothing drive for the Trinity Center and other service work. |
+| **Community** | Volunteered with Animal Rescue of Tracy. |
+| **Roblox animation channel** | Co-created animated Roblox skits: designed scenes and models, developed storylines, and iterated on videos that reached **7M+ views** and **9K subscribers**. |
+
+---
+
+### 🌿 `lore`
+
+- built, printed, and sold **240+** functional items
+- ran **$5.6k** in eBay sales with **217** positive reviews
+- varsity soccer, National Honor Society, community service, and mentoring
+
+---
 
 <div align="center">
 
