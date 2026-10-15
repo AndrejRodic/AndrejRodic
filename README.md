@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/minecraft-banner.svg" alt="Animated Minecraft-style banner for Andrej Rodic" width="100%" />
+<img src="./assets/minecraft-story-banner.gif" alt="Animated Minecraft-style banner for Andrej Rodic" width="100%" />
 
 [![UCSB CS](https://img.shields.io/badge/UCSB_CS-003660?style=flat-square)](https://cs.ucsb.edu/education)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrejrodic/)
