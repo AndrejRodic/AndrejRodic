@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Garage Parking Aid pixel icon" shape-rendering="crispEdges">
+  <rect x="2" y="2" width="60" height="60" fill="#6b737a"/>
+  <rect x="5" y="5" width="54" height="54" fill="#454c52"/>
+  <rect x="8" y="8" width="48" height="48" fill="#555d63"/>
+  
+  <rect x="15" y="16" width="34" height="34" fill="#c7894e"/>
+  <rect x="20" y="21" width="24" height="24" fill="#e4b86b"/>
+  <rect x="25" y="26" width="14" height="14" fill="#4c5258"/>
+  <rect x="29" y="29" width="6" height="8" fill="#8bd0ed"/>
+  <rect x="8" y="31" width="5" height="4" fill="#c84b3f"/>
+  <rect x="51" y="31" width="5" height="4" fill="#c84b3f"/>
+
+</svg>

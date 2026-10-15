@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Sprint Timing Gates pixel icon" shape-rendering="crispEdges">
+  <rect x="2" y="2" width="60" height="60" fill="#6b737a"/>
+  <rect x="5" y="5" width="54" height="54" fill="#454c52"/>
+  <rect x="8" y="8" width="48" height="48" fill="#555d63"/>
+  
+  <rect x="13" y="16" width="8" height="34" fill="#b57844"/>
+  <rect x="43" y="16" width="8" height="34" fill="#b57844"/>
+  <rect x="13" y="16" width="38" height="6" fill="#d19a58"/>
+  <path d="M20 28h24v4H20zm4 6h16v4H24zm5 6h7v4h-7z" fill="#e7d56b"/>
+  <rect x="15" y="48" width="4" height="4" fill="#4b3828"/>
+  <rect x="45" y="48" width="4" height="4" fill="#4b3828"/>
+
+</svg>
