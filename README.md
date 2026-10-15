@@ -10,11 +10,28 @@
 
 ---
 
+<table>
+<tr>
+<td valign="top" width="60%">
+
 ### `⛏️ whoami`
 
-hey, i'm **Andrej**, a student studying Computer Science at **UC Santa Barbara**. i like building useful stuff, especially projects where code, electronics, and design work together.
+hey, i'm **Andrej**, a student studying **Computer Science** at **UC Santa Barbara**. i like building useful stuff, especially projects where code, electronics, and design work together.
 
 when i'm not in class or working on a build, i'm usually playing soccer, filming youtube videos, or playing games like minecraft.
+
+reach out on **[LinkedIn](https://www.linkedin.com/in/andrejrodic/)** or **[email](mailto:andrejrodic@ucsb.edu)**.
+
+</td>
+<td valign="top" align="center" width="40%">
+
+<img src="./assets/andrej-profile.jpg" width="260px" alt="Andrej at the coast" />
+
+`// andrej.jpg`
+
+</td>
+</tr>
+</table>
 
 ---
 
