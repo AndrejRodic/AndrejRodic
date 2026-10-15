@@ -12,7 +12,9 @@
 
 ### `⛏️ whoami`
 
-hey, i'm **Andrej**, a Computer Science student at **UC Santa Barbara**. i like building useful software and practical projects that bring code, electronics, and design together.
+hey, i'm **Andrej**, a student studying Computer Science at **UC Santa Barbara**. i like building useful stuff, especially projects where code, electronics, and design work together.
+
+when i'm not in class or working on a build, i'm usually playing soccer, filming youtube videos, or playing games like minecraft.
 
 ---
 
@@ -29,9 +31,9 @@ hey, i'm **Andrej**, a Computer Science student at **UC Santa Barbara**. i like 
 
 ### `🔥 active quests`
 
-- **CS @ UCSB** · expected 2029
+- **CS @ UCSB**
 - building and shipping useful software
-- looking for a **Summer 2027 software internship**
+- currently looking for a **software internship**
 
 ---
 
