@@ -74,6 +74,5 @@ when i'm not in class or working on a build, i'm usually playing soccer, filming
   <img src="./dist/github-contribution-grid-snake.svg" alt="Snake animation of Andrej's contribution graph" />
 </picture>
 
-*last updated by GitHub Actions*
 
 </div>
