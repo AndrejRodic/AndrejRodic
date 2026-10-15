@@ -1,56 +1,80 @@
 <div align="center">
 
-<img src="./assets/minecraft-banner.svg" alt="Minecraft-style banner for Andrej Rodic" width="100%" />
-
-<h1>Andrej Rodic</h1>
+<img src="./assets/minecraft-banner.svg" alt="Animated Minecraft-style banner for Andrej Rodic" width="100%" />
 
 [![UCSB CS](https://img.shields.io/badge/UCSB_CS-003660?style=flat-square)](https://cs.ucsb.edu/education)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrejrodic/)
-[![Email](https://img.shields.io/badge/Email-1a1a1a?style=flat-square&logo=gmail&logoColor=white)](mailto:andrejrodic@ucsb.edu)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/AndrejRodic)
+[![Email](https://img.shields.io/badge/Email-1a1a1a?style=flat-square&logo=gmail&logoColor=white)](mailto:andrejrodic9@gmail.com)
 
 </div>
 
 ---
 
-## About
+### ⛏️ `whoami`
 
-I’m Andrej, a Computer Science student at UC Santa Barbara. I build software people use, including a published Chrome extension and Roblox development tools.
+hey, i'm **Andrej**, a **freshman studying Computer Science** at **UC Santa Barbara**. i like building useful stuff, especially projects where code, electronics, and design work together.
 
-I focus on practical user problems, clear behavior, and thoughtful product decisions.
+when i'm not in class or working on a build, i'm usually playing soccer, filming youtube videos, or playing games like minecraft.
 
-## Selected projects
+---
 
-### Queue Monitor
+### 🧱 `inventory`
 
-I built and published a JavaScript Chrome extension that helps competitive Minecraft players monitor Discord testing queues and join new queues. It has 300+ users. I added detection for new and edited queue messages, duplicate filtering, queue tracking, notifications, and a Cloudflare Workers licensing backend.
+![Java](https://img.shields.io/badge/Java-1A1A1A?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![Python](https://img.shields.io/badge/Python-1A1A1A?style=flat-square&logo=python&logoColor=3776AB)
+![Luau](https://img.shields.io/badge/Luau-1A1A1A?style=flat-square&logo=lua&logoColor=2C8EBB)
+![Microcontrollers](https://img.shields.io/badge/Microcontrollers-1A1A1A?style=flat-square&logo=arduino&logoColor=00A8E8)
+![3D%20Printing](https://img.shields.io/badge/3D%20Printing-1A1A1A?style=flat-square&logo=prusa&logoColor=FF6B35)
+![Roblox%20Development](https://img.shields.io/badge/Roblox%20Development-1A1A1A?style=flat-square&logo=roblox&logoColor=white)
+![Video%20Editing](https://img.shields.io/badge/Video%20Editing-1A1A1A?style=flat-square&logo=youtube&logoColor=FF0000)
 
-[View the extension in the Chrome Web Store](https://chromewebstore.google.com/detail/mctiers-queue-sniper-watc/aibcfnkajkoandabcpbebgaijomadkjn) · [Queue Monitor case study](https://github.com/AndrejRodic/queue-monitor-showcase)
+- **Foundations:** Java, Python, Luau scripting, object-oriented programming, and algorithms
+- **Hardware:** microcontrollers, sensors, LEDs, and laser timing
+- **Design:** 3D modeling, 3D printing, and iterative prototyping
+- **Creative work:** video editing, thumbnail design, and storytelling
 
-### Roblox development
+---
 
-I helped lead a three-person coding team within a five-person studio. We co-developed Luau systems for player-data persistence, NPC placement, reusable UI, and mobile controls. Games using our templates reached 258.6K peak concurrent players and 1.5B+ combined visits.
+### 🔥 `active quests`
 
-We also co-created Roblox asset packs that recorded 100+ paid team sales. Games using those packs reported 330K+ combined concurrent players. These are separate team results from the template metrics.
+- **CS @ UCSB** · getting stronger at Java, OOP, and algorithms
+- turning everyday annoyances into small hardware + software projects
+- documenting builds better as i go
 
-[Roblox development case study](https://github.com/AndrejRodic/roblox-development)
+---
 
-### Sprint Timing Gates
+### 🗺️ `project log`
 
-Built and programmed a microcontroller and laser-sensor prototype to record sprint times.
+| Build | Notes |
+| :-- | :-- |
+| 🚗 **Garage Parking Sensor** | Built a microcontroller + distance-sensor + LED setup to help park at the right distance. |
+| ⚡ **DIY Sprint Speed Gates** | Put together a lower-cost laser-sensor timing setup for sprint training. |
+| 🎮 **Roblox Game Template Studio** | Led a small team building trend-responsive game templates that helped creators launch faster: implemented and debugged Luau game mechanics, tested features, and coordinated the team. The team's templates supported experiences that reached **258.6K peak CCU** and **1.5B+ visits**. |
+| 🎨 **Roblox Asset Pack Studio** | Co-built commercial asset packs for trend-driven Roblox releases, contributing 3D models, animations, sound effects, icons/renders, and release packaging. Sold **100+ paid packs** across the catalog, with releases priced from **$100 to $150**. |
+| 🧩 **3D Print Studio** | Designed, printed, and sold 240+ functional items, then kept improving them from customer feedback. |
 
-### Garage Parking Aid
+---
 
-Built a microcontroller-based parking aid with a distance sensor and LED to signal when a car reaches its parking target.
+### 💎 `achievements`
 
-## Technologies
+| Focus | Milestone |
+| :-- | :-- |
+| **Peer mentoring** | Spent three years helping students with math, study strategies, and test prep. |
+| **Tutoring initiative** | Put together an after-school event, designed recruitment posters, and helped form study groups. |
+| **National Honor Society** | Helped organize a clothing drive for the Trinity Center and other service work. |
+| **Community** | Volunteered with Animal Rescue of Tracy. |
+| **Roblox animation channel** | Co-created animated Roblox skits: designed scenes and models, developed storylines, and iterated on videos that reached **7M+ views** and **9K subscribers**. |
 
-JavaScript · Chrome APIs · Manifest V3 · Cloudflare Workers · Luau · Java · Python · Microcontrollers
+---
 
-## Current goal
+### 🌿 `lore`
 
-Looking for a software internship for Summer 2027.
+- built, printed, and sold **240+** functional items
+- ran **$5.6k** in eBay sales with **217** positive reviews
+- varsity soccer, National Honor Society, community service, and mentoring
 
-Outside of building, I play soccer, make videos, and enjoy Minecraft.
+---
 
 <div align="center">
 
@@ -60,6 +84,6 @@ Outside of building, I play soccer, make videos, and enjoy Minecraft.
   <img src="./dist/github-contribution-grid-snake.svg" alt="Snake animation of Andrej's contribution graph" />
 </picture>
 
-*Last updated by GitHub Actions*
+*last updated by GitHub Actions*
 
 </div>
