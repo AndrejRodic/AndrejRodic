@@ -49,8 +49,7 @@ reach out on **[LinkedIn](https://www.linkedin.com/in/andrejrodic/)** or **[emai
 ### `🔥 active quests`
 
 - **CS @ UCSB**
-- building and shipping useful software
-- currently looking for a **software internship**
+- developing Roblox games in **Luau**
 
 ---
 
